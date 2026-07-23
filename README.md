@@ -24,7 +24,7 @@
 
 1. 确认 Chrome 已安装并启用 Tampermonkey。
 2. 打开脚本直链：
-   `https://raw.githubusercontent.com/mingwei8709-hub/olevod-buffer-booster/main/olevod-buffer-booster.user.js`
+   `https://raw.githubusercontent.com/himinv/olevod-buffer-booster/main/olevod-buffer-booster.user.js`
 3. Tampermonkey 会显示安装确认页。
 4. 检查名称和版本后，点击 **安装**。
 
